@@ -6,3 +6,5 @@ django
 gunicorn
 flask
 pytz
+google.generativeai
+google
